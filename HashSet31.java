@@ -34,6 +34,7 @@ class HashSet31 {
       al.add("Ravi");  
       al.add("Ajay");   
       System.out.println(al);
+	   
       Iterator<String> itr=al.iterator();  
       while(itr.hasNext()){  
        System.out.println(itr.next());  
