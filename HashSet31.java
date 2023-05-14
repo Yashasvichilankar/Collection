@@ -1,6 +1,7 @@
 import java.util.*;
 
 class HashSet31 {
+	
    public static void main(String args[]) {
       // create a hash set
 	   HashSet<String> hs = new HashSet<>();
